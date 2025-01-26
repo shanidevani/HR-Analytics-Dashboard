@@ -72,7 +72,7 @@ These KPIs provide a snapshot of the organization's workforce and attrition tren
     - **Insight:**
         - This breakdown aids in identifying critical roles needing retention strategies.
 
-##Features of the Dashboard
+### Features of the Dashboard
 1. Interactive Filters:
     - The dashboard allows users to filter data by departments (Human Resources, Research & Development, Sales) to focus on specific business areas.
 2. Clear Visualizations:
@@ -80,17 +80,17 @@ These KPIs provide a snapshot of the organization's workforce and attrition tren
 3. Actionable Insights:
     - The visuals are designed to highlight patterns and trends, aiding strategic decision-making.
 
-##Tools and Technologies Used
-    - **Power BI:** For dashboard creation and visualization.
-    - **DAX:** For dynamic measures and calculations.
-    - **Power Query:** For data cleaning and preparation.
+### Tools and Technologies Used
+- **Power BI:** For dashboard creation and visualization.
+- **DAX:** For dynamic measures and calculations.
+- **Power Query:** For data cleaning and preparation.
 
-##Key Insights
+### Key Insights
 1. **Salary Matters:** Employees in lower salary brackets have higher attrition rates, suggesting a need to reevaluate compensation strategies.
 2. **Engagement for Younger Employees:** The 26–35 age group requires attention to improve retention rates.
 3. **Role-Specific Interventions:** High turnover in roles like Laboratory Technicians and Sales Executives should be addressed with focused efforts.
 
-##How to Use This Dashboard
-    - Download the dashboard from the GitHub repository: [GitHub Link Here]
-    - Open the Power BI file in **Power BI Desktop** to explore the dataset and interact with filters.
+### How to Use This Dashboard
+- Download the dashboard from the GitHub repository: [GitHub Link Here]
+- Open the Power BI file in **Power BI Desktop** to explore the dataset and interact with filters.
 
