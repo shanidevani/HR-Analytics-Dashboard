@@ -91,6 +91,6 @@ These KPIs provide a snapshot of the organization's workforce and attrition tren
 3. **Role-Specific Interventions:** High turnover in roles like Laboratory Technicians and Sales Executives should be addressed with focused efforts.
 
 ### How to Use This Dashboard
-- Download the dashboard from the GitHub repository: [GitHub Link Here]
+- Download the dashboard from the GitHub repository: [HR-Analytics-Dashboard](https://github.com/shanidevani/HR-Analytics-Dashboard/tree/main)
 - Open the Power BI file in **Power BI Desktop** to explore the dataset and interact with filters.
 
