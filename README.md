@@ -5,6 +5,8 @@ This **Power BI dashboard** provides comprehensive insights into employee attrit
 **Dashboard Overview**
 The dashboard focuses on attrition across various dimensions, such as education, age, salary, tenure, and job roles, supported by high-level KPIs and interactive visuals. It enables data-driven decisions to improve employee retention and workforce planning.
 
+![HR Analytics Dashboard](images/HR%20Dashboard.png)
+
 **Key Metrics (Top Row)**
 1. **Total Employees:**
     - Displays the total number of employees in the dataset: **1,473**.
